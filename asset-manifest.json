@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Beyondtech/static/css/main.3f660eef.css",
+    "main.js": "/Beyondtech/static/js/main.7d70d8e9.js",
+    "static/media/1.png": "/Beyondtech/static/media/1.9741230b4b4fe8213efa.png",
+    "static/media/4.jpg": "/Beyondtech/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/Beyondtech/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/2.webp": "/Beyondtech/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/Beyondtech/index.html",
+    "main.3f660eef.css.map": "/Beyondtech/static/css/main.3f660eef.css.map",
+    "main.7d70d8e9.js.map": "/Beyondtech/static/js/main.7d70d8e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f660eef.css",
+    "static/js/main.7d70d8e9.js"
+  ]
+}
